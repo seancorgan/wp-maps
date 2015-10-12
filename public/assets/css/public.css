@@ -1,0 +1,5 @@
+/* This stylesheet is used to style the public-facing components of the plugin. */
+#map-canvas { height: 300px; }
+#map-canvas img { 
+	max-width: none; 
+}
